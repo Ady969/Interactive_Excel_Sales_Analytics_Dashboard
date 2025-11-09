@@ -81,3 +81,6 @@ Interactive Excel dashboard project that demonstrates end-to-end sales analytics
 
 ## 📌 Connect with me:
 adiltheanalyst@zohomail.in
+
+## Github Pages Link
+https://ady969.github.io/Interactive_Excel_Sales_Analytics_Dashboard/
